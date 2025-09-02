@@ -1,6 +1,6 @@
 {
   "name": "BetterCrossbows",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "description": "Enhanced crossbow mechanics for Valheim with configurable reload times, movement freedom, and stamina management. Features ServerSync for multiplayer compatibility.",
   "website_url": "https://github.com/xtavim/BetterCrossbows",
   "dependencies": ["denikson-BepInExPack_Valheim-5.4.2333"]

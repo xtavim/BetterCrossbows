@@ -29,13 +29,6 @@ Enhanced crossbow mechanics for Valheim with configurable reload times, movement
 - **Reload While Moving**: Remove movement restrictions to allow reloading while moving/jumping
 - **Reload Stamina Drain**: Toggle stamina consumption during reload
 
-## How It Works
-
-1. **Reload Time**: Modifies the base reload time for all crossbows
-2. **Movement Freedom**: When enabled, reload actions persist even when moving
-3. **Stamina Control**: When disabled, reload actions consume no stamina
-4. **Crossbow Detection**: Automatically detects all crossbow-type weapons
-
 ## Recommended Mods
 
 Pair BetterCrossbows with [SaveCrossbowState by Azumatt](https://thunderstore.io/c/valheim/p/Azumatt/SaveCrossbowState/) for a better crossbow experience. SaveCrossbowState saves crossbow loaded state when switching weapons, preventing unnecessary reloads.
